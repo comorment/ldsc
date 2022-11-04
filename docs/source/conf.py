@@ -19,7 +19,7 @@ _release = _d['VERSION']
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'container_template'
+project = 'ldsc'
 copyright = '2022, Espen Hagen, Bayram Cevdet Akdeniz, Alexander Frei'
 author = 'Espen Hagen, Bayram Cevdet Akdeniz, Alexander Frei'
 release = _release

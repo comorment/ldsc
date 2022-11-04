@@ -1,4 +1,4 @@
-name: container_template
+name: ldsc
 channels:
   - conda-forge
   - defaults

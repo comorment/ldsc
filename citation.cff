@@ -11,8 +11,8 @@ authors:
     given-names: "Oleksandr"
     orcid: "https://orcid.org/0000-0002-6427-2625"
 
-title: "container_template"
+title: "ldsc"
 version: 0.1.0rc0
 doi: "10.5281/zenodo.7244728"
 date-released: 2022-10-24
-url: "https://github.com/precimed/container_template"
+url: "https://github.com/comorment/ldsc"
