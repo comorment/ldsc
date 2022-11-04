@@ -1,0 +1,16 @@
+# misc
+.DS_Store
+
+# bash
+.bash_history
+
+# Python
+*.pyc
+.pytest_cache
+__pycache__
+
+# R
+.rda
+
+# Sphinx
+_build

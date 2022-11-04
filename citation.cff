@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Hagen"
+    given-names: "Espen"
+    orcid: "https://orcid.org/0000-0002-1321-5970"
+  - family-names: "Cevdet Akdeniz"
+    given-names: "Bayram"
+    orcid: "https://orcid.org/0000-0002-9493-3105"
+  - family-names: "Frei"
+    given-names: "Oleksandr"
+    orcid: "https://orcid.org/0000-0002-6427-2625"
+
+title: "container_template"
+version: 0.1.0rc0
+doi: "10.5281/zenodo.7244728"
+date-released: 2022-10-24
+url: "https://github.com/precimed/container_template"

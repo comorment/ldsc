@@ -1,0 +1,12 @@
+name: container_template
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pytest
+  - sphinx
+  - sphinx_rtd_theme
+  - m2r2
+  - pip
+  - pip:
