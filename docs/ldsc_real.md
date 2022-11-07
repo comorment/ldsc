@@ -1,4 +1,4 @@
-This usecase describe how to run LDSC analysis (https://github.com/bulik/ldsc) on Morningness and Intelligence summary statistics data. Commands below assume that you've ``git clone`` this github repository (https://github.com/comorment/ldsc) and alao https://github.com/comorment/containers repository as described in [Getting started](https://github.com/comorment/containers#getting-started)section. ``$COMORMENT`` environmental variable should points to that parent folder containing cloned repositories.
+This usecase describe how to run LDSC analysis (https://github.com/bulik/ldsc) on Morningness and Intelligence summary statistics data. Commands below assume that you've ``git clone`` this github repository (https://github.com/comorment/ldsc) and also https://github.com/comorment/containers repository as described in [Getting started](https://github.com/comorment/containers#getting-started)section. ``$COMORMENT`` environmental variable should points to that parent folder containing cloned repositories.
 
 1.  Export the path of the summary statistics, name this path as ``sumstats_l`` and export path for reference data
 ```
