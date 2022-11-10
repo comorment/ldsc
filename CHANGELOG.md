@@ -6,6 +6,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- add sLDSC.py with some old instructions / scripts related to generating new sLDSC annotations
+
 ## [1.0.0] - 2022-11-07
 
 ### Added
